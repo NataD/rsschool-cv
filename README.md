@@ -1,2 +1,3 @@
 # rsschool-cv
-Markdown &amp; Git
+
+Link to [CV](https://natad.github.io/rsschool-cv/cv)
